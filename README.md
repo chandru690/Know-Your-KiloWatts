@@ -864,3 +864,13 @@ renderHome();
 </body>
 </html>
 ```
+
+SCREENSHOT:
+
+<img width="1920" height="1080" alt="Screenshot 2026-04-15 233439" src="https://github.com/user-attachments/assets/83974fa2-9b13-4e80-8fa6-8957961eda9e" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-04-15 233515" src="https://github.com/user-attachments/assets/a8295603-de8a-4793-937e-fd45385b6bb8" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-04-15 233530" src="https://github.com/user-attachments/assets/d63a96d0-0de3-4e85-85c3-c7d25bac7b14" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-04-15 233601" src="https://github.com/user-attachments/assets/427009dc-432a-4f51-8037-63c6056dd64e" />
